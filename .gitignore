@@ -1,0 +1,6 @@
+*.zip
+*.bak
+*.tmp
+*.kicad_prl
+.history/
+pcb1-backups/
